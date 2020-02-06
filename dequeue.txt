@@ -4,5 +4,6 @@ python
 taco
 python
 elefante
-tornillo
+primo
 python
+uwu
